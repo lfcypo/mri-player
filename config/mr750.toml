@@ -1,0 +1,9 @@
+scanner_model = "GE Discovery MR750 3.0T"
+profile_name = "offline-example"
+gradient_raster_us = 10
+lowpass_hz = 2000
+max_gradient_mtm = 1.0
+max_slew_tms = 10.0
+target_peak_mtm = 0.1
+segment_seconds = 30
+fade_ms = 20
